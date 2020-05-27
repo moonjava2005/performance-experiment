@@ -1,0 +1,10 @@
+
+.idea/
+
+ios/Pods/
+
+node_modules/
+
+ios/Podfile.lock
+
+yarn.lock
